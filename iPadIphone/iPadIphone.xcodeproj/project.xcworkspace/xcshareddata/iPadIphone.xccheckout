@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6C9991A2-50E5-4A8A-9358-CA46E18EF645</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iPadIphone</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>26DF6938-A4DB-4F64-BD39-DBE923DC8F1C</key>
+		<string>ssh://github.com/alicorn/iPadBeta.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iPadIphone/iPadIphone.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>26DF6938-A4DB-4F64-BD39-DBE923DC8F1C</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/alicorn/iPadBeta.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>26DF6938-A4DB-4F64-BD39-DBE923DC8F1C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>26DF6938-A4DB-4F64-BD39-DBE923DC8F1C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iPadIphone</string>
+		</dict>
+	</array>
+</dict>
+</plist>
