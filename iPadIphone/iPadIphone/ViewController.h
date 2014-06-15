@@ -11,4 +11,6 @@
 
 @interface ViewController : UIViewController <UITableViewDataSource, UITableViewDelegate>
 
+@property(copy, nonatomic) NSArray *liste;
+
 @end
